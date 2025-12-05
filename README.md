@@ -1,2 +1,2 @@
 # devops-demo
-demo class
+demo for class
